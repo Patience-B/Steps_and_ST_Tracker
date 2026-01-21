@@ -181,7 +181,7 @@ readme_content = f"""# Health Data Analysis Report
 > 🤖 **Auto-generated** | Last updated: {datetime.now().strftime('%B %d, %Y at %H:%M UTC')}
 
 ## Overview
-This report analyzes your health and activity data from **{stats['date_range']}** ({stats['total_days']} days).
+This report analyzes Patience Bwire's steps and screen-time data from **{stats['date_range']}** ({stats['total_days']} days).
 
 ---
 
