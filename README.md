@@ -1,9 +1,9 @@
 # Health Data Analysis Report
 
-> 🤖 **Auto-generated** | Last updated: January 21, 2026 at 21:05 UTC
+> 🤖 **Auto-generated** | Last updated: February 07, 2026 at 18:15 UTC
 
 ## Overview
-This report analyzes your health and activity data from **14/01/2024 to 22/01/2026** (740 days).
+This report analyzes Patience Bwire's steps and screen-time data from **14/01/2024 to 06/02/2026** (755 days).
 
 ---
 
@@ -20,16 +20,16 @@ This report analyzes your health and activity data from **14/01/2024 to 22/01/20
 ## 📈 Key Statistics
 
 ### Steps Summary
-- **Total Steps**: 3,416,071
-- **Average Daily Steps**: 4,629
+- **Total Steps**: 3,553,554
+- **Average Daily Steps**: 4,707
 - **Maximum Steps (Single Day)**: 21,759
 - **Minimum Steps (Single Day)**: 0
-- **10,000+ Step Days**: 88 days (11.9%)
+- **10,000+ Step Days**: 96 days (12.7%)
 
 ### Screen Time Summary
-- **Total Screen Time**: 5333.3 hours (320,000 minutes)
-- **Average Daily Screen Time**: 432 minutes (7.2 hours)
-- **Maximum Screen Time (Single Day)**: 1056 minutes (17.6 hours)
+- **Total Screen Time**: 5498.6 hours (329,914 minutes)
+- **Average Daily Screen Time**: 437 minutes (7.3 hours)
+- **Maximum Screen Time (Single Day)**: 1057 minutes (17.6 hours)
 - **Minimum Screen Time (Single Day)**: 0 minutes (0.0 hours)
 
 ---
@@ -47,17 +47,17 @@ This report analyzes your health and activity data from **14/01/2024 to 22/01/20
 ## 🔍 Insights
 
 ### Steps Insights
-- **Most Active Day**: Sunday (avg: 5,389 steps)
-- **Least Active Day**: Tuesday (avg: 3,656 steps)
-- **Daily Goal Achievement**: You're 5,371 steps away from the recommended 10,000 daily steps. 💪
+- **Most Active Day**: Sunday (avg: 5,493 steps)
+- **Least Active Day**: Tuesday (avg: 3,725 steps)
+- **Daily Goal Achievement**: You're 5,293 steps away from the recommended 10,000 daily steps. 💪
 
 ### Screen Time Insights
-- **Highest Screen Time Day**: Saturday (avg: 449 minutes)
-- **Lowest Screen Time Day**: Friday (avg: 388 minutes)
-- **Weekly Screen Time**: Approximately 50.5 hours per week
+- **Highest Screen Time Day**: Saturday (avg: 455 minutes)
+- **Lowest Screen Time Day**: Friday (avg: 398 minutes)
+- **Weekly Screen Time**: Approximately 51.0 hours per week
 
 ### Correlation
-- **Steps vs Screen Time Correlation**: -0.246
+- **Steps vs Screen Time Correlation**: -0.227
   - ➡️ Weak correlation between screen time and steps
 
 ---
@@ -74,13 +74,13 @@ This report analyzes your health and activity data from **14/01/2024 to 22/01/20
 
 | Day of Week | Avg Steps | Avg Screen Time (min) |
 |-------------|-----------|----------------------|
-| Monday | 4,507 | 446 |
-| Tuesday | 3,656 | 439 |
-| Wednesday | 4,535 | 433 |
-| Thursday | 4,489 | 424 |
-| Friday | 4,957 | 388 |
-| Saturday | 4,873 | 449 |
-| Sunday | 5,389 | 448 |
+| Monday | 4,578 | 447 |
+| Tuesday | 3,725 | 442 |
+| Wednesday | 4,610 | 433 |
+| Thursday | 4,565 | 433 |
+| Friday | 5,040 | 398 |
+| Saturday | 4,937 | 455 |
+| Sunday | 5,493 | 450 |
 
 ---
 
